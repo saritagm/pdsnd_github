@@ -9,6 +9,12 @@ Bikeshare Data Analysis
 ### Description
 This project analyzes bikeshare data from three cities: Chicago, New York City, and Washington. The project uses a Python script (`bikeshare_2.py`) to perform data analysis and generate useful statistics such as the most popular bike ride, the average duration of trips, and more. The data is stored in CSV files for each city and used as input to the script.
 
+### The main tasks include:
+1. Data cleaning and preparation.
+2. Analyzing data to find insights into bikeshare usage patterns.
+3. Displaying the results in a user-friendly format.
+
+
 ### Files used
 - `bikeshare_2.py`: The Python script that performs data analysis.
 - `chicago.csv`: The CSV file containing bikeshare data for Chicago.
